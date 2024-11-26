@@ -366,7 +366,7 @@
     </PlaceholderReference>
   </ItemGroup>
   <ItemGroup>
-    <LibraryReference Include="Tc2_Utilities,3.3.38.0,Beckhoff Automation GmbH">
+    <LibraryReference Include="Tc2_Utilities,newest,Beckhoff Automation GmbH">
       <Namespace>Tc2_Utilities</Namespace>
     </LibraryReference>
   </ItemGroup>
